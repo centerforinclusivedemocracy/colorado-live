@@ -1,0 +1,83 @@
+,osm_id,code,fclass,name,lon,lat
+0,26260724,2009,courthouse,,-105.28846,40.01457
+1,366394657,2009,courthouse,Boulder County Justice Center,-105.28857,40.01451
+2,366394762,2002,fire_station,Sugar Loaf Fire Protection District Station 3,-105.46482,40.00425
+3,366394797,2002,fire_station,Timberline Fire Protection District Station 2,-105.44061,39.93891
+4,366394800,2002,fire_station,Coal Creek Canyon Fire Department Station 2,-105.385,39.92467
+5,366394813,2002,fire_station,Sugar Loaf Fire Protection District Station 2,-105.35785,40.01689
+6,366395086,2002,fire_station,Four Mile Fire Department Station 1,-105.36521,40.04169
+7,366395089,2002,fire_station,Four Mile Fire Department Station 3,-105.38368,40.04124
+8,366395192,2002,fire_station,Nederland Fire Protection District Station 2,-105.46432,39.98136
+9,366395227,2002,fire_station,Timberline Fire Protection District Station 1,-105.4172,39.97681
+10,366395284,2002,fire_station,Four Mile Fire Department Station 4,-105.32555,40.01776
+11,366395290,2002,fire_station,Sugar Loaf Fire Protection District Station 1,-105.40483,40.01905
+12,366395433,2002,fire_station,Poorman Volunteer Fire Department,-105.33427,40.03899
+13,366395750,2001,police,Boulder County Sheriff's Office Headquarters,-105.28812,40.01423
+14,358947415,2005,post_office,United States Postal Service Annex,-105.24511,40.01891
+15,5463838369,2011,embassy,Honorary Consulate of the Czech Republic,-105.24583,40.0151
+16,6432090222,2005,post_office,UPS Customer Center,-105.24634,40.02202
+17,366395187,2002,fire_station,Cherryvale Fire Protection District Station 5,-105.16083,39.92814
+18,366395246,2002,fire_station,Nederland Fire Protection District Station 3,-105.56941,39.94939
+19,366395543,2007,library,Nederland Library,-105.51228,39.96419
+20,366395598,2001,police,Nederland Police Department,-105.50976,39.9599
+21,1388114503,2005,post_office,,-105.50487,39.96414
+22,366395048,2002,fire_station,Mountain View Fire Protection District Station 5,-105.09755,40.0501
+23,2203467801,2005,post_office,Shipping on the Hill,-105.27644,40.0077
+24,2703606306,2005,post_office,The UPS Store,-105.26354,40.0031
+25,5251498720,2005,post_office,Will Vill UPS center,-105.25181,39.99883
+26,366394805,2002,fire_station,Boulder Rural Fire Department Station 1,-105.23612,40.05141
+27,366394810,2002,fire_station,Boulder Mountain Fire Protection District Station 1,-105.31154,40.04909
+28,366395023,2002,fire_station,Boulder Fire / Rescue Department Station 5,-105.27304,40.05402
+29,366395087,2002,fire_station,Lefthand Fire Protection District Station 5,-105.35179,40.09266
+30,366395088,2002,fire_station,Gold Hill Fire Department,-105.41337,40.06247
+31,366395090,2002,fire_station,Sunshine Fire Protection District Station 1,-105.36396,40.06103
+32,366395091,2002,fire_station,Four Mile Fire Department Station 2,-105.37967,40.05481
+33,366395131,2002,fire_station,Lefthand Fire Protection District Station 4,-105.29952,40.13148
+34,366395132,2002,fire_station,Boulder Rural Fire Department Station 2,-105.25938,40.10399
+35,366395133,2002,fire_station,Lefthand Fire Protection District Central Station,-105.28622,40.13287
+36,366395134,2002,fire_station,Lefthand Fire Protection District Station 3,-105.28887,40.13257
+37,366395141,2002,fire_station,Indian Peaks Fire Protection District Station 2,-105.48191,40.10018
+38,366395144,2002,fire_station,Sunshine Fire Protection District Station 2,-105.36454,40.05921
+39,366395146,2002,fire_station,Jamestown Volunteer Fire Department,-105.38591,40.11546
+40,366395174,2002,fire_station,Lyons Fire Protection District Station 1,-105.2669,40.22352
+41,366395287,2002,fire_station,Boulder Mountain Fire Protection District Station 2,-105.35542,40.07789
+42,366395288,2002,fire_station,Boulder Mountain Fire Protection District Station 3,-105.31649,40.06189
+43,366395515,2002,fire_station,Allenspark Fire Department Station 2,-105.45442,40.15953
+44,4225990085,2005,post_office,Jamestown Post Office,-105.38902,40.11581
+45,6270082769,2007,library,North Boulder Corner Library,-105.28197,40.05839
+46,307162578,2005,post_office,,-105.17314,40.10308
+47,366394662,2009,courthouse,Boulder County Court Building,-105.10199,40.17712
+48,366394665,2009,courthouse,Safety and Justice Center,-105.10164,40.16311
+49,366394874,2002,fire_station,Mountain View Fire Protection District Station 4,-105.15418,40.10126
+50,366395036,2002,fire_station,Longmont Fire Department Station 2,-105.13188,40.18128
+51,366395053,2002,fire_station,Longmont Fire Department Station 4,-105.10109,40.19915
+52,366395080,2002,fire_station,Mountain View Fire Protection District Station 1,-105.05593,40.13978
+53,366395162,2002,fire_station,Longmont Fire Department Headquarters,-105.10099,40.16319
+54,366395621,2001,police,Longmont Police Department Headquarters,-105.10098,40.16296
+55,2699602022,2002,fire_station,Longmont Fire Station #1,-105.1046,40.17735
+56,366395618,2001,police,Boulder Police Department,-105.25054,40.01866
+57,366394493,2009,courthouse,,-105.16316,39.97281
+58,366394563,2009,courthouse,Superior Municipal Court,-105.16597,39.95335
+59,366394819,2002,fire_station,Rocky Mountain Fire Station 1,-105.17292,39.99973
+60,366395042,2002,fire_station,Boulder Fire / Rescue Department Station 6,-105.20756,40.06804
+61,366395217,2002,fire_station,Station 3,-105.16863,39.9538
+62,366395629,2001,police,Louisville Police Department,-105.16352,39.97255
+63,366396115,2008,town_hall,Superior Town Hall,-105.16611,39.95373
+64,1563131727,2001,police,Boulder Sheriff's Substation,-105.1712,39.95789
+65,26261196,2005,post_office,Valmont Post Office,-105.22651,40.0287
+66,366395039,2002,fire_station,Boulder Fire / Rescue Department Station 7,-105.22493,40.01126
+67,2085392782,2001,police,Boulder County Sheriff's Office,-105.22365,40.02287
+68,2085393970,2005,post_office,FedEx Express Ship Center,-105.21905,40.02168
+69,366395066,2002,fire_station,Allenspark Fire Department Station 1,-105.52763,40.19677
+70,366395138,2002,fire_station,Indian Peaks Fire Protection District Station 1,-105.50667,40.07302
+71,366395514,2002,fire_station,Allenspark Fire Department Station 3,-105.53133,40.23885
+72,952619170,2005,post_office,Ward Post Office (80481),-105.50829,40.07169
+73,1437190143,2005,post_office,The UPS Store,-105.23544,39.99865
+74,1490657812,2007,library,"Boulder Public Library, Meadows Branch",-105.23404,39.99767
+75,1930911746,2005,post_office,PakMail,-105.26223,40.01534
+76,366394879,2002,fire_station,Lafayette Fire Department,-105.09392,40.00157
+77,423195931,2001,police,Lafayette Police Department,-105.09475,40.00256
+78,2088082931,2005,post_office,,-105.09082,39.99316
+79,366394822,2002,fire_station,Louisville Fire Department Station #1,-105.13187,39.98238
+80,366395168,2002,fire_station,Rocky Mountain Fire District,-105.25011,39.9423
+81,2703063739,2007,library,Little Free Library #4076,-105.24448,39.9849

@@ -1,0 +1,60 @@
+,osm_id,code,fclass,name,lon,lat
+0,366395198,2002,fire_station,Denver Fire Department Station 5,-104.93554,39.69864
+1,366395856,2001,police,Glendale Police Department,-104.93602,39.69905
+2,366395482,2002,fire_station,South Metro Fire Rescue Station 33,-104.90491,39.58091
+3,366395730,2001,police,Greenwood Village Police Department,-104.90329,39.6064
+4,366395099,2002,fire_station,Byers Fire Department,-104.22308,39.71188
+5,366395105,2002,fire_station,Deer Trail Fire Department,-104.04513,39.61252
+6,366395109,2002,fire_station,Bennettt Fire Protection District Station 94,-104.45478,39.63318
+7,366395983,2001,police,Arapahoe County Sheriff's Office Byers Substation,-104.21954,39.7177
+8,366395106,2002,fire_station,Skyline Fire Department,-104.91886,39.66738
+9,358952178,2005,post_office,Downtown Station Englewood Post Office,-104.98727,39.65619
+10,358952181,2005,post_office,Englewood Post Office,-104.99858,39.64799
+11,366395464,2002,fire_station,South Metro Fire Rescue Station 38,-104.95739,39.63686
+12,366395731,2001,police,Cherry Hills Village Police Department,-104.95816,39.63708
+13,366395922,2008,town_hall,Cherry Hills Village City Hall,-104.95833,39.6375
+14,366394844,2002,fire_station,Aurora Fire Department Station 4,-104.84437,39.69628
+15,5536908682,2005,post_office,United States Post Office,-104.86308,39.69714
+16,4168570283,2005,post_office,The UPS Store,-104.85089,39.66016
+17,366395502,2002,fire_station,Aurora Fire Department Station 13,-104.70924,39.59051
+18,366395796,2001,police,Aurora Police Department District 3,-104.70851,39.59032
+19,1314743958,2007,library,Tallyn's Reach Library,-104.70876,39.58978
+20,366395085,2002,fire_station,Sheridan Fire Department Station 2,-105.02708,39.64192
+21,366395839,2001,police,Sheridan Police Department,-105.02679,39.64168
+22,366394841,2002,fire_station,Aurora Fire Department Station 5,-104.79169,39.73687
+23,366395081,2002,fire_station,Sable Altura Fire Rescue Station 1,-104.67685,39.7366
+24,366394929,2002,fire_station,Aurora Fire Department Station 9,-104.78587,39.68525
+25,366395313,2002,fire_station,Cunningham Fire Protection District Station 3,-104.73816,39.61878
+26,366394652,2099,public_building,US Customs and Border Protection Centennial Airport Port,-104.84779,39.57943
+27,366395490,2002,fire_station,South Metro Fire Rescue Station 31,-104.86718,39.60925
+28,1268820879,2005,post_office,US Post Office,-104.87675,39.59228
+29,6260128242,2001,police,APD Southlands Security Office,-104.70923,39.60215
+30,6289876138,2002,fire_station,Aurora Fire Station 15,-104.70312,39.6824
+31,366394591,2002,fire_station,Metro Fire Training Center,-105.01361,39.62746
+32,366394619,2002,fire_station,Englewood Fire Prevention Acoma Station,-104.98878,39.6291
+33,366394668,2009,courthouse,Littleton Municipal Courthouse,-105.01233,39.61368
+34,366394673,2009,courthouse,Arapahoe County Courts,-105.0075,39.61278
+35,366394847,2002,fire_station,Littleton Fire Rescue Station 11,-105.01311,39.61767
+36,366395467,2002,fire_station,South Metro Fire Rescue Station 37,-104.96041,39.61473
+37,366395735,2001,police,Littleton Police Department,-105.01323,39.61815
+38,366395824,2001,police,Arapahoe County Sheriff's Office Littleton Substation,-105.00802,39.61265
+39,366395652,2007,library,Martin Luther King Junior Branch Aurora Public Library,-104.87354,39.73966
+40,2794083007,2008,town_hall,Aurora City Hall,-104.87314,39.73964
+41,366395980,2001,police,Columbine Valley Police Department,-105.03466,39.60653
+42,366396114,2008,town_hall,Columbine Valley City Hall,-105.03528,39.60917
+43,366396122,2008,town_hall,Columbine Valley City Hall,-105.03466,39.60661
+44,358952174,2005,post_office,Centennial Post Office,-104.9632,39.59577
+45,366394839,2002,fire_station,Littleton Fire Rescue Station 15,-104.95744,39.58028
+46,366394853,2002,fire_station,Littleton Fire Rescue Station 14,-104.94096,39.5973
+47,366394856,2002,fire_station,Littleton Fire Rescue Station 12,-104.98882,39.59883
+48,5322844718,2005,post_office,US Post Office,-104.95868,39.60789
+49,366395104,2002,fire_station,Cunningham Fire Protection District Station 1,-104.87361,39.67576
+50,366395070,2002,fire_station,Aurora Fire Department - Administration,-104.81257,39.71034
+51,366395838,2001,police,Aurora Police Department Mini-station,-104.82455,39.70786
+52,3540423354,2005,post_office,The UPS Store,-104.82571,39.69534
+53,2905121540,2007,library,Eloise May Library,-104.89132,39.69
+54,358952189,2005,post_office,Hoffman Heights Station Aurora Post Office,-104.84621,39.72738
+55,366394836,2002,fire_station,Aurora Fire Department Station 2,-104.84211,39.72892
+56,366394616,2002,fire_station,Englewood Fire Prevention Tejon Station,-105.01133,39.66106
+57,366395067,2002,fire_station,Sheridan Fire Department Station 1,-105.01156,39.65468
+58,2884805871,2001,police,Sheridan Police,-105.00775,39.64599

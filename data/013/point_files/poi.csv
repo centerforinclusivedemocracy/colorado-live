@@ -1,0 +1,287 @@
+osm_id,code,fclass,name,lon,lat
+358948040,2082,school,Watershed School,-105.29471,40.01416
+945476441,2402,motel,The Silver Saddle Motel,-105.29903,40.01286
+945476447,2402,motel,Foot of the Mountain Motel,-105.29655,40.01245
+4112409160,2012,community_centre,Coal Creek Canyon Improvement Association,-105.36098,39.91846
+4112539389,2012,community_centre,Coal Creek Community Hall,-105.36098,39.91846
+358913164,2082,school,Highland School,-105.28416,40.01332
+1385090594,2501,supermarket,Coop,-105.28436,40.01143
+3906689275,2303,cafe,Naropa Cafe,-105.26704,40.01391
+4670593303,2501,supermarket,Alfalfa's Market,-105.27929,40.01369
+4693765991,2303,cafe,Dot's Diner,-105.2773,40.01001
+6456034210,2303,cafe,Peregrine,-105.27863,40.01445
+358948031,2082,school,Rocky Mountain School for the Gifted and Creative,-105.25646,40.02595
+358948049,2082,school,Homeopathy School of Colorado,-105.25957,40.03136
+1309667629,2303,cafe,Red Rock Coffeehouse,-105.26052,40.03581
+4550245464,2501,supermarket,India's Grocery,-105.25919,40.02844
+4717701275,2303,cafe,Vic's Espresso,-105.2545,40.03527
+5097129577,2303,cafe,Pekoe Sip House,-105.25349,40.02688
+6397531243,2303,cafe,Starbucks,-105.2599,40.03464
+6397687781,2303,cafe,Gabee Coffee,-105.25798,40.02998
+358948082,2082,school,Van Educational Center,-105.2344,40.01569
+4701852247,2303,cafe,Parkway Cafe,-105.24362,40.02491
+5077978881,2083,kindergarten,,-105.24698,40.03709
+6429632146,2110,hospital,,-105.24306,40.01929
+358948047,2082,school,September School,-105.2711,40.01832
+1087811656,2303,cafe,Capital One Cafe,-105.27891,40.01825
+1204448220,2303,cafe,Tea and Cakes,-105.2771,40.01806
+1403540019,2303,cafe,Ozo Coffee,-105.28218,40.01758
+2705160941,2303,cafe,Starbucks,-105.27661,40.01872
+2705164621,2303,cafe,Ozo Coffee,-105.27532,40.01899
+3868122184,2303,cafe,Brewing Market Coffee,-105.27831,40.01757
+4624124314,2303,cafe,Trident,-105.28299,40.01714
+4624124315,2303,cafe,Wonder,-105.28275,40.01719
+4681194337,2303,cafe,Alpine Modern,-105.28183,40.01738
+4687240389,2303,cafe,The Yellow Deli,-105.28357,40.01701
+4717701293,2303,cafe,Spruce Confections,-105.28553,40.01689
+4717838028,2303,cafe,Amante,-105.28144,40.01665
+4725367149,2303,cafe,The Unseen Bean Cafe,-105.28005,40.01854
+5182325486,2303,cafe,Boulder Baked,-105.27995,40.01719
+951942862,2501,supermarket,Mountain People's Co-op,-105.50972,39.96178
+952155330,2501,supermarket,B&F Mountain Market,-105.50875,39.96023
+952314006,2303,cafe,New Moon Bakery,-105.51064,39.96202
+952355692,2303,cafe,Happy Trails Bike Shop And Cafe,-105.51053,39.96039
+358948119,2082,school,Erie Elementary School,-105.05609,40.05026
+358948127,2082,school,Alexander Dawson School,-105.11054,40.06332
+358913140,2082,school,Base Line Middle School,-105.26693,40.00082
+358913266,2082,school,High Peaks Elementary School,-105.24365,40.00415
+358916627,2082,school,New Vista High School,-105.26709,40.00131
+358948028,2082,school,Community Montessori School,-105.2711,40.00332
+358948065,2082,school,Boulder Community School,-105.2435,40.00416
+564844204,2303,cafe,Starbucks,-105.26313,39.99992
+1004891532,2083,kindergarten,Tiny Minders Preschool and Daycare,-105.24974,39.99183
+1068730196,2083,kindergarten,Homestar Child Development Center,-105.25409,39.98964
+1182911431,2303,cafe,The Corner,-105.27604,40.00742
+1182911464,2501,supermarket,University Hill Market & Deli,-105.27606,40.00801
+1185574416,2303,cafe,Brewing Market,-105.26116,39.99965
+1185574417,2501,supermarket,Sprouts Farmers Market,-105.25435,39.99929
+2177939678,2303,cafe,Weather Tech Cafe,-105.26429,40.00456
+2203467796,2303,cafe,The Point Cafe,-105.27643,40.00746
+2203467803,2303,cafe,Starbucks,-105.27521,40.00718
+2213712823,2303,cafe,Starbucks,-105.27133,40.00673
+2213712830,2303,cafe,,-105.27138,40.00671
+2247077269,2303,cafe,Pekoe Sip House,-105.26978,40.00771
+2247077271,2303,cafe,Celestial Seasonings,-105.26325,40.00739
+2362000042,2303,cafe,Amante Coffee,-105.2561,39.99981
+2410433517,2303,cafe,Sip,-105.25818,40.0071
+2622799009,2083,kindergarten,Sunflower Preschool,-105.25359,39.98964
+2667851887,2303,cafe,The Laughing Goat,-105.27023,40.00878
+2681223497,2303,cafe,Folsom Street Coffee Company,-105.26892,40.00889
+2700650301,2303,cafe,Lollicup,-105.27606,40.00825
+2700664445,2303,cafe,Peace Pipe,-105.27648,40.00893
+2700664448,2303,cafe,Rush bowl,-105.27638,40.00889
+2700664449,2303,cafe,Aion,-105.27651,40.00881
+2700664452,2303,cafe,Innisfree,-105.27608,40.0088
+2703606305,2303,cafe,The Hub,-105.26285,40.00302
+3135949418,2303,cafe,Trep Cafe,-105.26359,40.00597
+5940892885,2084,college,UMC Doma,-105.27215,40.00651
+358932499,2082,school,Lyons Middle Senior High School,-105.26438,40.21481
+358948056,2082,school,Tara Institute of the Performing Arts,-105.27388,40.05054
+358948059,2082,school,Shining Mountains Waldorf High School,-105.28444,40.05514
+358948062,2082,school,Shining Mountains Waldorf Elementary / Middle School,-105.28442,40.05498
+1109733242,2303,cafe,Amante,-105.28193,40.05798
+1109735617,2303,cafe,Rush II,-105.28255,40.05804
+3850677429,2303,cafe,Stone Cup,-105.27126,40.22575
+3893853211,2082,school,Gold Hill Elementary School,-105.4125,40.06301
+4640034289,2303,cafe,Logan's Espresso Cafe,-105.28081,40.04763
+4725333626,2303,cafe,Spruce Confections,-105.2819,40.05969
+6065280204,2014,arts_centre,Planet Bluegrass,-105.27396,40.22934
+358912766,2082,school,Burlington School,-105.10804,40.14642
+358912770,2082,school,Saint John the Baptist Catholic School,-105.09932,40.16515
+358912774,2082,school,Columbine School,-105.09609,40.16998
+358912782,2082,school,Central School,-105.10916,40.16692
+358912786,2082,school,Lincoln School,-105.11221,40.16998
+358912807,2082,school,Spangler School,-105.09695,40.18431
+358913347,2082,school,Niwot Elementary School,-105.14749,40.09971
+358948110,2082,school,Boulder Valley Waldorf School,-105.18135,40.09204
+358948114,2082,school,Niwot High School,-105.14443,40.1036
+358948116,2082,school,Rocky Mountain Christian Academy,-105.13253,40.1027
+358953152,2082,school,Saint Vrain Adult Education School,-105.11221,40.16974
+614551483,2082,school,Rocky Mountain Elementary,-105.07799,40.16805
+1556424769,2082,school,Longmont Estates Elementary School,-105.14795,40.18549
+1656476491,2303,cafe,Brewing Market,-105.13043,40.14029
+3106265282,2501,supermarket,Safeway Grocery Store,-105.12952,40.18797
+3183253333,2082,school,Skyline High School,-105.08126,40.18244
+3845397928,2501,supermarket,Whole Foods Market,-105.12928,40.14512
+3845397930,2501,supermarket,SV Groceries,-105.1275,40.14322
+4266907827,2501,supermarket,King Soopers,-105.10427,40.19885
+4636872831,2303,cafe,Starbucks,-105.1339,40.15373
+4670639064,2303,cafe,Winot Coffee Company,-105.16852,40.10046
+4707781892,2303,cafe,Ziggi's Coffee,-105.10233,40.16589
+5027139909,2303,cafe,Javastop,-105.103,40.16409
+5027196336,2303,cafe,La Vita Bella,-105.10276,40.16722
+5027243251,2303,cafe,Luna Cafe,-105.10356,40.1725
+5027248876,2303,cafe,Red Frog Coffee,-105.09363,40.1519
+5029034386,2501,supermarket,Lucky's Market,-105.10492,40.15333
+5029034387,2501,supermarket,Safeway,-105.10942,40.15354
+5029127849,2501,supermarket,Natural Grocers,-105.10384,40.19028
+5070098556,2501,supermarket,Simply Bulk Market,-105.10233,40.16618
+5366465946,2303,cafe,Starbucks,-105.10285,40.19061
+6346367262,2084,college,IBMC,-105.10297,40.20021
+564835927,2501,supermarket,Whole Foods Market,-105.25594,40.02402
+1969237339,2303,cafe,Starbucks,-105.25567,40.01863
+2310496207,2303,cafe,Peet's Coffee,-105.25683,40.01701
+2702170053,2014,arts_centre,Wonder Wonder,-105.25639,40.01685
+4461138345,2501,supermarket,India Bazaar,-105.25813,40.0138
+5075476322,2303,cafe,Vic's Espresso,-105.25173,40.01975
+358947432,2082,school,Bridge School,-105.19693,39.98721
+358947770,2082,school,Fireside Elementary School,-105.15776,39.96915
+358948069,2082,school,Boulder Technical Education Center,-105.19804,40.01387
+358948071,2082,school,Arapahoe Ridge High School,-105.19777,40.01332
+358948086,2082,school,Mountain Shadows Montessori School,-105.20539,40.0498
+358948089,2082,school,Boulder Country Day School,-105.20274,40.06289
+358948093,2082,school,Boulder Prep Charter High School,-105.203,40.06693
+358948102,2082,school,Boulder Jewish Day School,-105.18096,40.07325
+1235421770,2303,cafe,Paul's Coffee,-105.1622,39.96383
+1268299552,2083,kindergarten,KinderCare,-105.16506,39.96823
+1268337546,2303,cafe,Starbucks,-105.16433,39.96509
+1611231182,2082,school,Reel Kids,-105.17315,39.95529
+1656303059,2083,kindergarten,La Petite Academy,-105.16142,39.96464
+2662821333,2303,cafe,Tod's Coffee,-105.20104,40.07221
+3475251804,2303,cafe,Lamar's Donuts,-105.16397,39.97028
+4602210251,2303,cafe,Starbucks,-105.1651,39.95554
+4719880116,2303,cafe,Spine Rd & Gunpark Dr,-105.20208,40.07028
+5629613128,2014,arts_centre,Sunflower Art Studio,-105.20054,40.07094
+5629621334,2303,cafe,Snarfs,-105.20091,40.07226
+6418820387,2303,cafe,Ampersand Tasting Room,-105.20086,40.07324
+358945397,2082,school,Front Range Community College - Boulder Campus,-105.21888,40.04526
+2062343771,2303,cafe,Ozo Coffee Company,-105.22843,40.01424
+6089311274,2303,cafe,Baby Goat,-105.22597,40.02808
+6152764512,2082,school,Temple Grandin School,-105.21524,40.03202
+6225910634,2303,cafe,Ozo Coffee,-105.21826,40.0205
+358948077,2082,school,Friends School,-105.2261,40.00582
+358948079,2083,kindergarten,Active Boulder Kids,-105.23242,40.00696
+1436881759,2303,cafe,Glacier Homemade Ice Cream,-105.2351,39.99978
+1437412829,2303,cafe,Big Daddy Bagels,-105.23348,39.99755
+1490656756,2501,supermarket,Safeway,-105.23443,39.99821
+2096898867,2303,cafe,Starbucks,-105.2342,39.99817
+1270050173,2501,supermarket,Sprouts Farmers Market,-105.261,40.01588
+1305385014,2303,cafe,Starbucks,-105.25897,40.022
+1930911750,2303,cafe,Cuba Cuba Sandwicheria,-105.26226,40.0151
+2310482933,2303,cafe,Flatiron Coffee,-105.25912,40.01496
+2701899578,2303,cafe,Brewing Market,-105.2623,40.01605
+4509840720,2303,cafe,Le French Cafe,-105.26263,40.01517
+5180687403,2303,cafe,Le Peep,-105.26102,40.01617
+5264738922,2014,arts_centre,Board and Brush,-105.26339,40.01595
+358947389,2082,school,Angevine Middle School,-105.10418,39.9886
+358948676,2082,school,Alicia Sanchez Elementary School,-105.08417,39.98917
+400709926,2303,cafe,Starbucks,-105.10166,40.00164
+417159611,2303,cafe,Hannah's Specialty Foods,-105.09021,39.99095
+417611752,2303,cafe,Mojos,-105.09082,40.00006
+417616742,2303,cafe,,-105.09031,39.99032
+418791932,2303,cafe,Starbucks,-105.0957,39.98752
+418824028,2014,arts_centre,,-105.09006,40.00225
+1157630495,2303,cafe,Starbucks,-105.1024,40.01578
+1520190082,2083,kindergarten,Hope Montessori Academy,-105.09243,39.97314
+1581678771,2082,school,Catalyst High School,-105.08927,39.98528
+1638476807,2501,supermarket,Sprouts Farmers Market,-105.09631,39.98852
+1993298201,2303,cafe,Cannon Mine Coffee,-105.09028,39.99644
+6194329038,2014,arts_centre,The Arts HUB,-105.09318,39.98471
+6362730368,2303,cafe,Starbucks,-105.1036,40.0045
+358948182,2082,school,Louisville Elementary School,-105.13832,39.97499
+358948184,2082,school,Saint Louis Catholic School,-105.13593,39.97922
+358948186,2082,school,Seven Oaks Academy of Louisville,-105.13304,39.98776
+412637426,2303,cafe,Vics,-105.13231,39.97796
+1176324409,2303,cafe,Good Measure Coffee,-105.13001,39.98745
+1520605452,2303,cafe,Starbucks,-105.12397,39.98814
+2160508888,2303,cafe,Espresso Vino by Brewing Market,-105.13202,40.01228
+2440716246,2303,cafe,Bittersweet Cafe and Confections,-105.13195,39.97844
+2560866432,2501,supermarket,King Soopers,-105.12419,39.98825
+4643660492,2303,cafe,Precision Pours,-105.13146,39.9867
+6174366538,2014,arts_centre,Louisville Center for the Arts,-105.13613,39.97788
+358913221,2082,school,Columbine School,-105.26971,40.03221
+358952720,2110,hospital,Peoples clinic,-105.28252,40.03532
+3454431280,2303,cafe,The Laughing Goat,-105.27309,40.01946
+4350338528,2303,cafe,Pekoe Sip House,-105.28148,40.02593
+5741678381,2303,cafe,Beleza Coffee,-105.28116,40.02523
+25757229,2501,supermarket,King Soopers,-105.25147,39.9834
+358948165,2082,school,Mesa Elementary School,-105.26082,39.97221
+358948172,2082,school,Running River School,-105.26082,39.97971
+559697927,2303,cafe,South Side Cafe,-105.24937,39.98302
+573692799,2303,cafe,Cafe Sole,-105.24988,39.98311
+972995825,2303,cafe,Mickey C's Bagels,-105.25026,39.98355
+973418526,2082,school,Culinary School of the Rockies,-105.25009,39.98337
+1787236932,2083,kindergarten,Mount Hope Lutheran Preschool,-105.24102,39.97433
+1718846216,2303,cafe,Starbucks,-105.14772,39.92843
+26260724,2009,courthouse,,-105.28846,40.01457
+366394657,2009,courthouse,Boulder County Justice Center,-105.28857,40.01451
+366394762,2002,fire_station,Sugar Loaf Fire Protection District Station 3,-105.46482,40.00425
+366394797,2002,fire_station,Timberline Fire Protection District Station 2,-105.44061,39.93891
+366394800,2002,fire_station,Coal Creek Canyon Fire Department Station 2,-105.385,39.92467
+366394813,2002,fire_station,Sugar Loaf Fire Protection District Station 2,-105.35785,40.01689
+366395086,2002,fire_station,Four Mile Fire Department Station 1,-105.36521,40.04169
+366395089,2002,fire_station,Four Mile Fire Department Station 3,-105.38368,40.04124
+366395192,2002,fire_station,Nederland Fire Protection District Station 2,-105.46432,39.98136
+366395227,2002,fire_station,Timberline Fire Protection District Station 1,-105.4172,39.97681
+366395284,2002,fire_station,Four Mile Fire Department Station 4,-105.32555,40.01776
+366395290,2002,fire_station,Sugar Loaf Fire Protection District Station 1,-105.40483,40.01905
+366395433,2002,fire_station,Poorman Volunteer Fire Department,-105.33427,40.03899
+366395750,2001,police,Boulder County Sheriff's Office Headquarters,-105.28812,40.01423
+358947415,2005,post_office,United States Postal Service Annex,-105.24511,40.01891
+5463838369,2011,embassy,Honorary Consulate of the Czech Republic,-105.24583,40.0151
+6432090222,2005,post_office,UPS Customer Center,-105.24634,40.02202
+366395187,2002,fire_station,Cherryvale Fire Protection District Station 5,-105.16083,39.92814
+366395246,2002,fire_station,Nederland Fire Protection District Station 3,-105.56941,39.94939
+366395543,2007,library,Nederland Library,-105.51228,39.96419
+366395598,2001,police,Nederland Police Department,-105.50976,39.9599
+1388114503,2005,post_office,,-105.50487,39.96414
+366395048,2002,fire_station,Mountain View Fire Protection District Station 5,-105.09755,40.0501
+2203467801,2005,post_office,Shipping on the Hill,-105.27644,40.0077
+2703606306,2005,post_office,The UPS Store,-105.26354,40.0031
+5251498720,2005,post_office,Will Vill UPS center,-105.25181,39.99883
+366394805,2002,fire_station,Boulder Rural Fire Department Station 1,-105.23612,40.05141
+366394810,2002,fire_station,Boulder Mountain Fire Protection District Station 1,-105.31154,40.04909
+366395023,2002,fire_station,Boulder Fire / Rescue Department Station 5,-105.27304,40.05402
+366395087,2002,fire_station,Lefthand Fire Protection District Station 5,-105.35179,40.09266
+366395088,2002,fire_station,Gold Hill Fire Department,-105.41337,40.06247
+366395090,2002,fire_station,Sunshine Fire Protection District Station 1,-105.36396,40.06103
+366395091,2002,fire_station,Four Mile Fire Department Station 2,-105.37967,40.05481
+366395131,2002,fire_station,Lefthand Fire Protection District Station 4,-105.29952,40.13148
+366395132,2002,fire_station,Boulder Rural Fire Department Station 2,-105.25938,40.10399
+366395133,2002,fire_station,Lefthand Fire Protection District Central Station,-105.28622,40.13287
+366395134,2002,fire_station,Lefthand Fire Protection District Station 3,-105.28887,40.13257
+366395141,2002,fire_station,Indian Peaks Fire Protection District Station 2,-105.48191,40.10018
+366395144,2002,fire_station,Sunshine Fire Protection District Station 2,-105.36454,40.05921
+366395146,2002,fire_station,Jamestown Volunteer Fire Department,-105.38591,40.11546
+366395174,2002,fire_station,Lyons Fire Protection District Station 1,-105.2669,40.22352
+366395287,2002,fire_station,Boulder Mountain Fire Protection District Station 2,-105.35542,40.07789
+366395288,2002,fire_station,Boulder Mountain Fire Protection District Station 3,-105.31649,40.06189
+366395515,2002,fire_station,Allenspark Fire Department Station 2,-105.45442,40.15953
+4225990085,2005,post_office,Jamestown Post Office,-105.38902,40.11581
+6270082769,2007,library,North Boulder Corner Library,-105.28197,40.05839
+307162578,2005,post_office,,-105.17314,40.10308
+366394662,2009,courthouse,Boulder County Court Building,-105.10199,40.17712
+366394665,2009,courthouse,Safety and Justice Center,-105.10164,40.16311
+366394874,2002,fire_station,Mountain View Fire Protection District Station 4,-105.15418,40.10126
+366395036,2002,fire_station,Longmont Fire Department Station 2,-105.13188,40.18128
+366395053,2002,fire_station,Longmont Fire Department Station 4,-105.10109,40.19915
+366395080,2002,fire_station,Mountain View Fire Protection District Station 1,-105.05593,40.13978
+366395162,2002,fire_station,Longmont Fire Department Headquarters,-105.10099,40.16319
+366395621,2001,police,Longmont Police Department Headquarters,-105.10098,40.16296
+2699602022,2002,fire_station,Longmont Fire Station #1,-105.1046,40.17735
+366395618,2001,police,Boulder Police Department,-105.25054,40.01866
+366394493,2009,courthouse,,-105.16316,39.97281
+366394563,2009,courthouse,Superior Municipal Court,-105.16597,39.95335
+366394819,2002,fire_station,Rocky Mountain Fire Station 1,-105.17292,39.99973
+366395042,2002,fire_station,Boulder Fire / Rescue Department Station 6,-105.20756,40.06804
+366395217,2002,fire_station,Station 3,-105.16863,39.9538
+366395629,2001,police,Louisville Police Department,-105.16352,39.97255
+366396115,2008,town_hall,Superior Town Hall,-105.16611,39.95373
+1563131727,2001,police,Boulder Sheriff's Substation,-105.1712,39.95789
+26261196,2005,post_office,Valmont Post Office,-105.22651,40.0287
+366395039,2002,fire_station,Boulder Fire / Rescue Department Station 7,-105.22493,40.01126
+2085392782,2001,police,Boulder County Sheriff's Office,-105.22365,40.02287
+2085393970,2005,post_office,FedEx Express Ship Center,-105.21905,40.02168
+366395066,2002,fire_station,Allenspark Fire Department Station 1,-105.52763,40.19677
+366395138,2002,fire_station,Indian Peaks Fire Protection District Station 1,-105.50667,40.07302
+366395514,2002,fire_station,Allenspark Fire Department Station 3,-105.53133,40.23885
+952619170,2005,post_office,Ward Post Office (80481),-105.50829,40.07169
+1437190143,2005,post_office,The UPS Store,-105.23544,39.99865
+1490657812,2007,library,"Boulder Public Library, Meadows Branch",-105.23404,39.99767
+1930911746,2005,post_office,PakMail,-105.26223,40.01534
+366394879,2002,fire_station,Lafayette Fire Department,-105.09392,40.00157
+423195931,2001,police,Lafayette Police Department,-105.09475,40.00256
+2088082931,2005,post_office,,-105.09082,39.99316
+366394822,2002,fire_station,Louisville Fire Department Station #1,-105.13187,39.98238
+366395168,2002,fire_station,Rocky Mountain Fire District,-105.25011,39.9423
+2703063739,2007,library,Little Free Library #4076,-105.24448,39.9849

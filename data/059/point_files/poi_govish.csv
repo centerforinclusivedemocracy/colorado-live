@@ -1,0 +1,99 @@
+,osm_id,code,fclass,name,lon,lat
+0,366394794,2002,fire_station,Coal Creek Canyon Fire Department Station 1,-105.34751,39.90629
+1,366395415,2002,fire_station,West Metro Fire Rescue Station 8,-105.09846,39.68258
+2,366395074,2002,fire_station,West Metro Fire Rescue Station 7,-105.06611,39.697
+3,366395800,2001,police,Lakewood Police Department,-105.08583,39.70765
+4,1524684553,2007,library,Jeffco Public Library Belmar Branch,-105.08424,39.70651
+5,1524684593,2008,town_hall,Lakewood Civic Center,-105.08472,39.70806
+6,1524684632,2009,courthouse,Lakewood Municipal Court,-105.0864,39.70765
+7,366395723,2007,library,Wheat Ridge Library,-105.05709,39.76258
+8,366395816,2001,police,Edgewater Police Department,-105.06165,39.75313
+9,366395063,2002,fire_station,West Metro Fire Rescue Station 12,-105.10951,39.61428
+10,366395429,2002,fire_station,West Metro Fire Rescue Storage Station,-105.09784,39.65698
+11,806323543,2002,fire_station,West Metro Fire Protection District,-105.11055,39.65177
+12,366394543,2099,public_building,City of Arvada Service Center,-105.16639,39.81806
+13,366394996,2002,fire_station,Arvada Fire Protection District Station 7,-105.16563,39.82587
+14,366395059,2002,fire_station,Arvada Fire Protection District Training Center and Maintenance,-105.16583,39.81647
+15,366395122,2002,fire_station,Arvada Fire Protection District Station 8,-105.18434,39.81229
+16,1233520487,2005,post_office,,-105.16388,39.81296
+17,366395079,2002,fire_station,Indian Hills Fire / Rescue,-105.26739,39.63742
+18,366395101,2002,fire_station,Foothills Fire and Rescue Lookout Mountain Station,-105.25684,39.71508
+19,366395357,2002,fire_station,Genesee Fire and Rescue,-105.26756,39.69195
+20,366395382,2002,fire_station,Foothills Fire and Rescue Idledale Station,-105.24444,39.66587
+21,366395387,2002,fire_station,Foothills Fire and Rescue Gravevine Substation,-105.24479,39.70102
+22,366395393,2002,fire_station,Foothills Fire and Rescue Mount Vernon Substation,-105.28514,39.71756
+23,358952210,2005,post_office,Morrison Post Office,-105.19333,39.65139
+24,366394979,2002,fire_station,Fairmount Fire Protection District Station 1,-105.16759,39.78218
+25,366395436,2002,fire_station,West Metro Fire Rescue Station 11,-105.17542,39.61705
+26,366395438,2002,fire_station,West Metro Fire Rescue Station 9,-105.17178,39.65397
+27,366395440,2002,fire_station,Golden Fire Department Station 3,-105.18088,39.72364
+28,366395445,2002,fire_station,West Metro Fire Rescue Station 5,-105.15715,39.74755
+29,366395453,2002,fire_station,West Metro Fire Rescue Station 6,-105.16826,39.72447
+30,366395643,2001,police,Morrison Police Department,-105.19398,39.65085
+31,366396002,2001,police,Colorado State Patrol District 6 Golden Office,-105.17462,39.73366
+32,366396110,2008,town_hall,Morrison City Hall,-105.19417,39.65139
+33,366394993,2002,fire_station,Arvada Fire Protection District Station 1,-105.08529,39.80004
+34,366395809,2001,police,Arvada Police Department Headquarters,-105.08775,39.8028
+35,366395869,2001,police,Arvada Police Chief,-105.08777,39.80276
+36,366396111,2008,town_hall,Arvada City Hall,-105.08806,39.80278
+37,366395646,2001,police,Mountain View Police Department,-105.0552,39.77451
+38,366396117,2008,town_hall,Mountain View City Hall,-105.05417,39.77361
+39,2660077194,2001,police,Lakeside Police Department,-105.05938,39.77689
+40,3634964524,2002,fire_station,,-105.0632,39.78166
+41,5431742026,2008,town_hall,Lakeside,-105.05938,39.77685
+42,366395456,2002,fire_station,West Metro Fire Rescue Station 3,-105.1007,39.71813
+43,366395793,2001,police,Colorado State Patrol Headquarters,-105.1074,39.72688
+44,366395916,2001,police,Colorado Bureau of Investigation,-105.10717,39.72615
+45,3668093514,2005,post_office,Mail Services,-105.09489,39.71361
+46,3668122063,2005,post_office,,-105.09391,39.7122
+47,366395012,2002,fire_station,Littleton Fire Rescue Station 13,-105.06511,39.59493
+48,366395425,2002,fire_station,West Metro Fire Rescue Station 13,-105.13833,39.5813
+49,366395432,2002,fire_station,West Metro Fire Rescue Station 14,-105.11419,39.57001
+50,366395794,2001,police,Jefferson County Sheriff's Office South Precinct,-105.12785,39.56926
+51,366394503,2099,public_building,National Training Center,-105.11806,39.72
+52,366395065,2002,fire_station,Clover Basin Fire Protection,-105.13462,39.71599
+53,714354537,2099,public_building,Social Security Administration,-105.14658,39.69646
+54,366395286,2002,fire_station,Arvada Fire Protection District Station 2,-105.11865,39.79168
+55,366395459,2002,fire_station,West Metro Fire Rescue Station 2,-105.12629,39.74145
+56,506569869,2007,library,Lakewood Library,-105.11324,39.74707
+57,1440734510,2001,police,,-105.12051,39.77955
+58,1440734511,2001,police,,-105.1135,39.77844
+59,1440734521,2001,police,so3,-105.11438,39.77759
+60,4004266292,2005,post_office,The UPS Store,-105.14134,39.76475
+61,366395076,2002,fire_station,Evergreen Fire / Rescue Station 1,-105.32215,39.63036
+62,366395347,2002,fire_station,Evergreen Fire / Rescue Station 6,-105.30211,39.65518
+63,366395350,2002,fire_station,Evergreen Fire / Rescue Station 7,-105.39189,39.71295
+64,366395399,2002,fire_station,Foothills Fire and Rescue Rainbow Hills Station,-105.33087,39.70093
+65,366395402,2002,fire_station,Evergreen Fire / Rescue Station 2,-105.36233,39.68149
+66,366395406,2002,fire_station,Evergreen Fire / Rescue Station 3,-105.3096,39.59044
+67,366395411,2002,fire_station,Evergreen Fire / Rescue Station 4,-105.31856,39.6189
+68,366395758,2001,police,Jefferson County Sheriff's Office Mountain Precinct,-105.32402,39.62576
+69,1832714235,2007,library,Jefferson County Public Library,-105.32353,39.62516
+70,1832762449,2005,post_office,Evergreen Post Office,-105.3434,39.64949
+71,366395257,2002,fire_station,Inter-Canyon Fire Protection District Station 1,-105.21768,39.57257
+72,366395261,2002,fire_station,Inter-Canyon Fire Protection District Station 2,-105.18532,39.52338
+73,366395264,2002,fire_station,Inter-Canyon Fire Protection District Station 4,-105.15249,39.54588
+74,366394976,2002,fire_station,Golden Fire Department Station 1,-105.22404,39.75684
+75,366395154,2002,fire_station,Golden Gate Fire Protection District Station 2,-105.31168,39.82535
+76,366395157,2002,fire_station,Golden Gate Fire Protection District Station 1,-105.36818,39.77696
+77,366395236,2002,fire_station,Coal Creek Canyon Fire Department Station 4,-105.39427,39.87642
+78,366395293,2002,fire_station,Coal Creek Canyon Fire Department Station 3,-105.27765,39.87315
+79,366395729,2001,police,Golden Police Department,-105.22429,39.75668
+80,366396132,2008,town_hall,Golden City Hall,-105.22444,39.75666
+81,358952214,2005,post_office,Wheat Ridge Post Office,-105.07998,39.77419
+82,366395450,2002,fire_station,West Metro Fire Rescue Station 1,-105.0678,39.73881
+83,366395833,2001,police,Wheat Ridge Police Department,-105.08058,39.75696
+84,366396113,2008,town_hall,Wheat Ridge City Hall,-105.08053,39.75727
+85,3683086725,2005,post_office,The UPS Store,-105.08049,39.78954
+86,366395077,2002,fire_station,North Fork Volunteer Fire Department Station 1,-105.24496,39.36158
+87,366395078,2002,fire_station,North Fork Volunteer Fire Department Station 2,-105.32353,39.40825
+88,366395084,2002,fire_station,North Fork Volunteer Fire Department Station 3,-105.21976,39.26399
+89,366395102,2002,fire_station,Elk Creek Fire / Rescue Station 1,-105.33487,39.49783
+90,366395259,2002,fire_station,Inter-Canyon Fire Protection District Station 5,-105.23062,39.52872
+91,366395270,2002,fire_station,Inter-Canyon Fire Protection District Station 3,-105.24037,39.56388
+92,366395367,2002,fire_station,Elk Creek Fire / Rescue Station 3,-105.35325,39.51787
+93,366395372,2002,fire_station,Elk Creek Fire / Rescue Station 4,-105.29674,39.54034
+94,1832746503,2005,post_office,Conifer Post Office,-105.29538,39.54379
+95,1834900446,2007,library,Pine Library,-105.32309,39.40847
+96,358952202,2005,post_office,Indian Tree Station Arvada Post Office,-105.08447,39.83824
+97,366395233,2002,fire_station,Westminster Fire Department Station 3,-105.08377,39.85949

@@ -1,0 +1,81 @@
+,osm_id,code,fclass,name,lon,lat
+0,2631941721,2005,post_office,US Mail Denver General Sorting Facility Post Office,-104.89923,39.79134
+1,366395128,2002,fire_station,Denver Fire Department Station 34 DIA Station 4,-104.69014,39.87594
+2,366395296,2002,fire_station,Denver Fire Department Station 32 (DIA Station 2),-104.66867,39.88198
+3,366395127,2002,fire_station,Denver Fire Department Station 33 DIA Station 3,-104.64612,39.85752
+4,366395298,2002,fire_station,Denver Fire Department Station 31 DIA Station 1,-104.68253,39.85135
+5,5910651935,2002,fire_station,Denver Fire Station 35,-104.69156,39.83239
+6,672563777,2007,library,Blair-CaldwellAfrican American Research Library,-104.98153,39.75243
+7,358949420,2005,post_office,Westwood Station Denver Post Office,-105.04361,39.69
+8,366394931,2002,fire_station,Denver Fire Department Station 28,-105.04876,39.63829
+9,366394943,2002,fire_station,Denver Fire Department Station 25,-105.04138,39.67255
+10,366394948,2002,fire_station,Denver Fire Department Station 23,-105.02465,39.70112
+11,366394956,2002,fire_station,Denver Fire Department Station 20,-105.03288,39.7248
+12,366395821,2001,police,Denver Police Activities League,-105.02561,39.71675
+13,366395859,2001,police,Denver Police Department District 4 Substation,-105.01976,39.6782
+14,366394900,2002,fire_station,Denver Fire Department Station 8,-104.97178,39.7421
+15,3371736514,2005,post_office,The UPS Store,-104.97722,39.74778
+16,358949412,2005,post_office,Sunnyside Station Denver Post Office,-105.00749,39.77982
+17,4277550071,2001,police,Denver Police District 1 Station,-105.00293,39.7806
+18,3286262353,2001,police,Auraria Police Department,-105.00953,39.74174
+19,358949410,2005,post_office,Stockyards Station Denver Post Office,-104.96639,39.78222
+20,366394882,2002,fire_station,Denver Fire Department Station 9,-104.96771,39.77847
+21,366395669,2007,library,Elyria Branch Library,-104.96417,39.78222
+22,1928697351,2005,post_office,,-104.95586,39.73486
+23,5588655090,2007,library,Helen Fowler Library,-104.96021,39.73275
+24,366395861,2001,police,Denver Police Department District 6 Substation,-104.97841,39.74042
+25,3406590882,2007,library,Christian Science Reading Room,-104.98277,39.73896
+26,366394959,2002,fire_station,Denver Fire Department Station 19,-104.92079,39.71085
+27,366394968,2002,fire_station,Denver Fire Department Station 15,-104.94217,39.73775
+28,2000619524,2005,post_office,The UPS Store,-104.94043,39.72797
+29,358949407,2005,post_office,South Denver Station Denver Post Office,-104.98793,39.71273
+30,366394953,2002,fire_station,Denver Fire Department Station 21,-104.96926,39.70722
+31,366395667,2007,library,Ross-Broadway Branch Denver Public Library,-104.98667,39.715
+32,6401093626,2005,post_office,The UPS Store,-104.98789,39.71052
+33,358949403,2005,post_office,United States Post Office,-104.89268,39.7336
+34,366394965,2002,fire_station,Denver Fire Department Station 16,-104.97606,39.68734
+35,366395744,2001,police,Denver Police Department District 3 Substation,-104.96014,39.68695
+36,366395747,2001,police,Denver Police Department Metro / SWAT,-104.98059,39.67444
+37,2698607259,2005,post_office,PakMail,-104.95982,39.67208
+38,366395636,2001,police,Denver Police Department Bicycle Division,-104.98027,39.77095
+39,2039387071,2007,library,,-105.01361,39.69708
+40,366394890,2002,fire_station,Denver Fire Department Station 12,-105.02564,39.75458
+41,3926665063,2007,library,Woodbury Branch Denver Public Library,-105.02575,39.76315
+42,366394973,2002,fire_station,Denver Fire Department Station 13,-104.88542,39.64972
+43,983950311,2007,library,Hampden Branch Library,-104.87476,39.65467
+44,1393657187,2005,post_office,The UPS Store,-104.99777,39.74868
+45,366394896,2002,fire_station,Denver Fire Department Station 6,-105.00252,39.74831
+46,358949391,2005,post_office,Capitol Hill United States Postal Service,-104.97252,39.74097
+47,3885318698,2002,fire_station,DFD Station 2,-104.79543,39.79142
+48,358949388,2005,post_office,Bear Valley Station Denver Post Office,-105.07972,39.66572
+49,366395020,2002,fire_station,Denver Fire Department Station 30,-105.09432,39.62744
+50,366394893,2002,fire_station,Denver Fire Department Station 4,-104.99295,39.75088
+51,581256557,2005,post_office,FedEx Office,-104.98983,39.74547
+52,6008791392,2009,courthouse,United States Bankruptcy Court,-104.98862,39.74863
+53,6012917740,2009,courthouse,U.S. District Court of Colorado,-104.98929,39.74964
+54,366394962,2002,fire_station,Denver Fire Department Station 17,-105.04365,39.77859
+55,4739205402,2005,post_office,Rocket Pack & Ship,-105.04422,39.77026
+56,3543102204,2002,fire_station,Frontier Fire Protection,-105.01978,39.7358
+57,366395675,2007,library,Eugene Field Branch Denver Public Library,-104.95897,39.70169
+58,366395699,2007,library,Ross-Cherry Creek Branch Denver Public Library,-104.95254,39.72123
+59,5334373457,2007,library,Valdez-Perry Library,-104.96216,39.78177
+60,366394970,2002,fire_station,Denver Fire Department Station 14,-104.90787,39.73921
+61,2810119198,2007,library,Schlessman Family Branch Library,-104.90413,39.71867
+62,358949405,2005,post_office,Park Hill Station Denver Post Office,-104.92434,39.76446
+63,366394911,2002,fire_station,Fire Station Number 18,-104.94098,39.74949
+64,366395545,2007,library,Park Hill Branch Denver Public Library,-104.93254,39.74783
+65,366395764,2001,police,Denver Police Department Gang Bureau,-104.94115,39.74949
+66,366395766,2001,police,Denver Police Department District 2 Substation,-104.92173,39.77144
+67,2847479612,2007,library,JWU-Denver Library,-104.90637,39.74643
+68,2847479615,2001,police,Campus Security & Parking,-104.90515,39.74649
+69,358949398,2005,post_office,Mile High Station Denver Post Office,-104.99355,39.73831
+70,366395755,2001,police,Denver Police Department Headquarters,-104.99236,39.73724
+71,366395791,2001,police,Denver Sheriff Department Pre - Arraignment Detention Facility,-104.99265,39.73774
+72,366395993,2001,police,Denver Sheriff Department Civil Division,-104.99113,39.73882
+73,366396133,2008,town_hall,City Hall Annex Number 1,-104.99,39.74083
+74,3219047365,2001,police,Denver Sheriff Department,-104.99356,39.73921
+75,3394805280,2001,police,Denver Crime Laboratory,-104.99231,39.73817
+76,366394945,2002,fire_station,Denver Fire Department Station 24,-104.94108,39.6678
+77,366395711,2007,library,Ross-University Hills Library,-104.9374,39.66522
+78,358949417,2005,post_office,Wellshire Station Denver Post Office,-104.92178,39.67905
+79,366394950,2002,fire_station,Denver Fire Department Station 22,-104.91252,39.65219

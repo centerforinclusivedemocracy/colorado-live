@@ -1,0 +1,271 @@
+osm_id,code,fclass,name,lon,lat
+1261573253,2303,cafe,303 Coffee Company,-104.88322,39.56721
+1261587305,2303,cafe,Starbucks,-104.90221,39.56708
+1129126913,2303,cafe,Starbucks,-104.93934,39.69899
+1699751363,2501,supermarket,Whole Foods Market,-104.93963,39.70072
+358948379,2082,school,Heritage Elementary School,-104.9105,39.5969
+559833080,2501,supermarket,King Soopers,-104.92084,39.56761
+563984326,2501,supermarket,King Soopers,-104.92876,39.59439
+1368429336,2303,cafe,Starbucks,-104.92854,39.59409
+358921470,2082,school,Bellview School,-104.1344,39.71054
+358953028,2082,school,Deer Trail Elementary School,-104.04294,39.61172
+358953031,2082,school,Deer Trail Junior Senior High School,-104.04254,39.61116
+358921058,2082,school,Holly Ridge Primary School (K-2),-104.91351,39.65734
+358921061,2082,school,Holly Hills Elementary School (3-5),-104.91674,39.66368
+358950020,2082,school,Calvary Academy,-104.91975,39.66727
+869298624,2303,cafe,Starbucks,-104.89737,39.6232
+1985343302,2303,cafe,Cafe De Paris,-104.8964,39.60999
+2008933393,2082,school,Metropolitan  State University Of Denver - South Campus,-104.89909,39.61315
+4322221613,2303,cafe,Espresso Americano,-104.88945,39.61884
+4578576587,2303,cafe,Starbucks,-104.88939,39.61007
+5298414734,2082,school,Primrose School,-104.88937,39.61054
+358920991,2082,school,Cherrelyn Elementary School,-104.98606,39.634
+358920998,2082,school,Cherry Hills Village Elementary School,-104.95858,39.6388
+358921015,2082,school,Charles Hay World School,-104.97188,39.65868
+358921020,2082,school,Bishop Elementary School,-104.99304,39.65971
+358921022,2082,school,Saint Louis Catholic School,-104.98597,39.65657
+358950235,2082,school,Englewood High School,-104.98174,39.64656
+2104365946,2012,community_centre,Englewood Civic Center,-104.99937,39.65486
+2294993357,2303,cafe,Starbucks,-104.98802,39.65615
+2418555198,2303,cafe,Starbucks,-104.98743,39.63884
+2418587267,2501,supermarket,King Soopers,-104.96058,39.65365
+2423636532,2303,cafe,Starbucks,-104.9608,39.65395
+2863367769,2303,cafe,Caribou Coffee,-104.9707,39.65297
+2875632074,2082,school,,-104.98608,39.65551
+2879314790,2402,motel,Lucky U,-104.9884,39.63366
+2880810545,2083,kindergarten,Englewood Early Childhood Education (ECE) Program at Maddox,-104.99666,39.64621
+4682685590,2501,supermarket,Safeway,-104.98464,39.65189
+358921395,2082,school,Virginia Court Elementary School,-104.84058,39.70711
+358948787,2082,school,Lotus School for Excellence,-104.86009,39.71234
+358948831,2082,school,Highline Community Elementary School,-104.85891,39.70281
+358948914,2082,school,Village East Elementary School,-104.85248,39.6908
+358948961,2082,school,Aurora Hills Middle School,-104.83961,39.69904
+358953056,2082,school,Wood Seventh Day Adventist School,-104.85481,39.69561
+2525008771,2303,cafe,Starbucks,-104.86265,39.71167
+2906492529,2082,school,,-104.85599,39.71213
+358948877,2082,school,Overland High School,-104.84338,39.68091
+358948883,2082,school,Polton Elementary School,-104.85168,39.66387
+358948888,2082,school,Prairie Middle School,-104.84063,39.68131
+1757823689,2501,supermarket,L&A Market,-104.84818,39.66065
+1757823731,2501,supermarket,India's Harvest,-104.84806,39.66092
+2753160832,2083,kindergarten,Positive Alternative Preschool,-104.85986,39.66705
+2753160858,2501,supermarket,Haat Bazar,-104.86183,39.66852
+4168524064,2084,college,Platt College,-104.85449,39.66098
+4168539253,2083,kindergarten,Parker Learning Center Infant-Toddler Discovery Center,-104.85315,39.66174
+4168539257,2501,supermarket,Ananda Bazaar,-104.85374,39.66164
+4168570277,2303,cafe,The Donut House,-104.85079,39.66007
+4168708987,2501,supermarket,Bombay Bazaar,-104.84841,39.66
+5616338017,2303,cafe,Grace French Cafe,-104.83848,39.65802
+6760643922,2303,cafe,Volcano Tea House,-104.86241,39.66599
+6859355195,2303,cafe,Starbucks,-104.8448,39.66151
+358921013,2082,school,Denver Kent School,-104.94192,39.63388
+2800359684,2083,kindergarten,Bethany Early Childhood Center,-104.93353,39.65214
+3678127410,2303,cafe,Wholly Cannoli Cafe,-104.72369,39.57578
+5939234027,2303,cafe,Starbucks,-104.72441,39.57993
+5955467562,2303,cafe,Starbucks,-104.68739,39.58722
+358918696,2082,school,Alice Terry Elementary School,-105.03082,39.63638
+358918701,2082,school,Oliver School,-105.03395,39.64519
+358948895,2082,school,Sheridan High School,-105.02944,39.64389
+358948898,2082,school,Sheridan Middle School,-105.0266,39.6409
+598404731,2082,school,Littleton Preparatory Charter School,-105.02894,39.62308
+2752943376,2501,supermarket,Walmart Grocery,-104.87916,39.6514
+358921388,2082,school,Sixth Avenue Elementary School,-104.83044,39.72452
+358921457,2082,school,Elkhart Elementary School,-104.81505,39.73129
+358921459,2082,school,East Middle School,-104.81303,39.73415
+358921462,2082,school,Hinkley High School,-104.809,39.73471
+358948880,2082,school,Pickens Technical Center,-104.78972,39.72361
+358952347,2082,school,Rocky Mountain Christian Academy,-104.81195,39.73524
+358952883,2082,school,William Smith High School,-104.78924,39.72157
+1744683780,2082,school,Vista Peak Campus,-104.70018,39.71872
+2922911825,2110,hospital,Kindred Hospital Aurora,-104.82661,39.72815
+2988989421,2303,cafe,Caribou Coffee,-104.8279,39.73995
+3060319205,2084,college,High Tech Institute,-104.8232,39.72133
+3060319243,2084,college,Anthem College,-104.8232,39.721
+5029710200,2303,cafe,Starbucks,-104.82105,39.71547
+358946415,2082,school,Rangeview High School,-104.78125,39.67518
+358946630,2082,school,Eaglecrest High School,-104.73503,39.62426
+358948781,2082,school,Arkansas Elementary School,-104.78544,39.69223
+358948784,2082,school,Arrowhead Elementary School,-104.76598,39.66413
+358948841,2082,school,Horizon Middle School,-104.77152,39.64325
+358948869,2082,school,Meadow Point Elementary School,-104.77958,39.6265
+358948875,2082,school,Mrachek Middle School,-104.78262,39.68135
+358948905,2082,school,Summit Elementary Schoool,-104.77622,39.64017
+358948907,2082,school,Sunrise Elementary School,-104.75734,39.64372
+358948909,2082,school,Trails West Elementary School,-104.77953,39.61856
+358948912,2082,school,Vassar Elementary School,-104.77716,39.66956
+358952805,2082,school,Dakota Valley Elementary School,-104.74472,39.64622
+358952820,2082,school,Thunder Ridge Middle School,-104.73685,39.6214
+358952848,2082,school,Peace with Christ Christian School,-104.77154,39.65777
+358952872,2082,school,Peakview Elementary School,-104.76263,39.62299
+358953045,2082,school,Aurora Frontier School,-104.74626,39.65842
+1271583342,2501,supermarket,Safeway,-104.76961,39.65128
+1272751961,2501,supermarket,King Soopers,-104.77615,39.65508
+1311851655,2082,school,Aspen Crossing Elementary School,-104.75197,39.63249
+1318370692,2303,cafe,Starbucks,-104.77313,39.65221
+3697839601,2303,cafe,Starbucks,-104.75262,39.61254
+3804927513,2303,cafe,Starbucks,-104.75738,39.61498
+4141952455,2083,kindergarten,Saint Michael the Archangel Preschool,-104.76564,39.65645
+5934065372,2082,school,Heritage Heights Academy,-104.75456,39.60991
+6257078969,2303,cafe,Starbucks,-104.73232,39.63794
+6296026913,2082,school,Future Elementary School,-104.7407,39.63291
+358948802,2082,school,Cottonwood Creek Elementary School,-104.85917,39.60889
+1754422972,2303,cafe,Starbucks,-104.80407,39.59168
+1755688696,2303,cafe,Starbucks,-104.80292,39.60002
+1755755385,2303,cafe,Starbucks,-104.80291,39.59748
+6238555330,2303,cafe,Starbucks,-104.80427,39.59535
+358921051,2082,school,Belleview Elementary School,-104.87709,39.62848
+358948823,2082,school,High Plains Elementary School,-104.87028,39.60583
+566510042,2303,cafe,Einstein Bros. Bagels,-104.8833,39.62604
+566510046,2501,supermarket,King Soopers,-104.88406,39.62661
+2280381373,2082,school,Campus Middle School,-104.8776,39.62934
+2280385716,2082,school,Cherry Creek High School,-104.87934,39.63037
+3514093885,2303,cafe,Greenwood Village Cafe,-104.88396,39.63181
+5271022796,2082,school,Richard E Rudolph Shalom Hebrew School,-104.8774,39.62335
+5271276952,2303,cafe,Starbucks,-104.88457,39.62639
+5271384661,2303,cafe,Starbucks,-104.88349,39.62569
+5283033336,2083,kindergarten,La Petite Academy,-104.88429,39.63319
+5292516455,2082,school,Michelle Latimer Dance Academy,-104.88374,39.63188
+5292530792,2082,school,DriveSafe Colorado,-104.88413,39.63184
+5292558823,2303,cafe,The French Press,-104.88466,39.63231
+583066477,2402,motel,Motel 6,-104.88284,39.59603
+1803502738,2110,hospital,Child First Pediatrics,-104.88486,39.584
+5081959159,2303,cafe,Milano's Coffee,-104.87822,39.59474
+5318573584,2303,cafe,Etais Cafe,-104.88824,39.60293
+6639381685,2082,school,Cherry Creek Academy,-104.87562,39.60273
+6831829925,2303,cafe,Francy's Gourmet M,-104.8711,39.57953
+6260113423,2303,cafe,Starbucks,-104.70912,39.60174
+6260124148,2303,cafe,Wine Experience Cafe,-104.70845,39.60263
+6260127219,2082,school,Denver International Schoolhouse,-104.7099,39.60297
+4104016297,2501,supermarket,Vitamin Cottage Natural Grocers,-104.93528,39.71092
+5031469994,2303,cafe,Native Foods Cafe,-104.9395,39.7047
+5031469996,2303,cafe,Platform T,-104.93923,39.70472
+602365274,2501,supermarket,Safeway,-104.99188,39.57487
+5371329484,2303,cafe,Starbucks,-104.99166,39.57459
+6128761690,2303,cafe,Riize Coffee Company,-105.02774,39.56854
+358919394,2082,school,North School,-105.00998,39.61582
+358920979,2082,school,All Souls School,-104.98234,39.6267
+358920984,2082,school,Colorado's Finest,-104.9915,39.62699
+358921497,2082,school,Field Elementary School,-104.98304,39.61888
+358921516,2082,school,Greenwood Elementary School,-104.92128,39.61599
+358948355,2082,school,West Middle School,-104.92407,39.62328
+595869720,2501,supermarket,King Soopers,-104.98979,39.61215
+598415403,2303,cafe,Caribou Coffee,-104.98754,39.62222
+2429424687,2303,cafe,Romancing the Bean,-105.01522,39.6119
+3066921803,2501,supermarket,Sprouts Farmers Market,-104.98837,39.62437
+4777714822,2303,cafe,Breuger's Bagels,-105.01669,39.61953
+4831206494,2303,cafe,Starbucks,-105.01926,39.62368
+6484991924,2303,cafe,Dirt Coffee Bar,-105.02028,39.61251
+6484991926,2303,cafe,Cafe du Coco,-105.0195,39.61264
+6822836908,2501,supermarket,King Soopers,-105.02384,39.62516
+358921416,2082,school,Fulton Academy of Excellence,-104.87105,39.72852
+358921438,2082,school,Aurora West College Preparatory Academy,-104.87008,39.73587
+358952353,2082,school,Aurora Academy Charter School,-104.86911,39.71863
+366394640,2014,arts_centre,Aurora Fox Arts Center,-104.87267,39.73995
+2976870181,2501,supermarket,India Bazaar Asian Grocery,-104.87597,39.73987
+5071001305,2084,college,Concorde Career College,-104.86668,39.71858
+358948793,2082,school,Aurora Century Elementary School,-104.81297,39.67091
+358948808,2082,school,Dartmouth Elementary School,-104.7994,39.6628
+358948859,2082,school,Iowa Elementary School,-104.79351,39.68787
+358948862,2082,school,Jewell Elementary School,-104.81835,39.68263
+358948920,2082,school,Yale Elementary School,-104.80343,39.66812
+358952367,2082,school,Meadowood Christian School,-104.79956,39.65994
+358953052,2082,school,Aurora Expeditionary Learning (AXL) Academy,-104.82497,39.68139
+3567316271,2303,cafe,The French Press,-104.81038,39.67424
+5791271922,2501,supermarket,,-104.78938,39.6848
+5636366833,2303,cafe,My Favorite Muffin,-105.03642,39.60918
+5636366840,2303,cafe,Enchanted Grounds,-105.03488,39.60997
+358919373,2082,school,Saint Marys School of Littleton,-105.01824,39.59567
+358920810,2082,school,Gilpin School,-104.97609,39.59165
+358921477,2082,school,Hopkins Elementary School,-104.98193,39.58804
+358921484,2082,school,Highland Elementary School,-104.9797,39.59777
+358921513,2082,school,Peabody Elementary School,-104.9522,39.60332
+358948303,2082,school,Twain Elementary School,-104.9704,39.5903
+358948312,2082,school,Sandburg Elementary School,-104.9543,39.5905
+358948818,2082,school,Heritage High School,-105.00388,39.58683
+573638651,2303,cafe,Starbucks;Einstein Brothers,-104.96189,39.58031
+1340617555,2501,supermarket,Whole Foods Market,-104.96185,39.59178
+1340617556,2303,cafe,Allegro Coffee Company,-104.96187,39.59161
+1340659496,2303,cafe,O. Coffee,-104.96407,39.59132
+1368581676,2303,cafe,Starbucks,-104.95722,39.60899
+1618253759,2083,kindergarten,,-104.98709,39.59045
+1932958150,2501,supermarket,Natural Grocers,-104.95875,39.59383
+2485945888,2303,cafe,Starbucks,-105.02636,39.58591
+2688946704,2501,supermarket,Trader Joe's,-104.95712,39.60926
+3438481298,2014,arts_centre,Curtis Arts and Humanities Center,-104.96166,39.61007
+5394957508,2082,school,,-104.96076,39.61052
+6226013735,2303,cafe,Starbucks,-104.98794,39.58352
+6290597256,2084,college,Workforce and Community Programs,-105.01817,39.60797
+6311913594,2014,arts_centre,Rox Arts Gallery,-105.02631,39.58615
+6582907451,2303,cafe,Starbucks,-104.96089,39.57871
+6947003899,2110,hospital,Cherry Hills Assisted Living & Memory Care,-104.96081,39.60201
+358921063,2082,school,Denver Campus for Jewish Education,-104.88834,39.67202
+1743778737,2303,cafe,Starbucks,-104.86967,39.67428
+2025829635,2110,hospital,Concentra Urgent Care,-104.86697,39.67542
+2025829649,2303,cafe,Lamar's Donuts,-104.87014,39.67515
+2025829650,2501,supermarket,Nana African Market,-104.869,39.6754
+2025829682,2501,supermarket,Gulzar Market,-104.86745,39.67552
+2753175588,2501,supermarket,H Mart,-104.86311,39.66578
+2753175610,2501,supermarket,Bangla Bazaar,-104.86406,39.6672
+2784778341,2303,cafe,The Cornerstone Cafe,-104.86359,39.67317
+3125184700,2303,cafe,Snowl Snow Bowl,-104.8649,39.68154
+3424246283,2501,supermarket,Diyar International Market,-104.87384,39.67648
+3472385141,2303,cafe,Even Better Cafe,-104.88995,39.67456
+5283324060,2303,cafe,Sonder Coffee & Tea,-104.87515,39.67536
+5712523652,2082,school,1st Choice Life Skills Academy,-104.86338,39.67432
+5712523654,2082,school,All-Star Tae Kwon Do,-104.86309,39.67427
+6104675074,2501,supermarket,Solomon’s,-104.86743,39.68121
+6185140632,2303,cafe,Einstein Bros. & Caribou,-104.87209,39.67641
+6186810317,2083,kindergarten,Little Ones Learning Center,-104.86755,39.6804
+6382134909,2303,cafe,Coco Loco,-104.86677,39.67436
+6384564693,2501,supermarket,M Mart,-104.86496,39.6796
+358953048,2082,school,Global Village Academy East Campus,-104.7966,39.71021
+2903634709,2083,kindergarten,Angels of God Child Day Care,-104.83059,39.71023
+2925472297,2082,school,Gateway Christian School,-104.81653,39.69598
+3540637874,2501,supermarket,King Soopers,-104.81097,39.69511
+3542618498,2083,kindergarten,Happy Day Learning Center of Aurora,-104.81306,39.6979
+3555238217,2082,school,Montessori del Mundo,-104.80752,39.6978
+3555238225,2082,school,Escuela de Ingles,-104.80769,39.69772
+3611808417,2501,supermarket,,-104.7889,39.6948
+4944133021,2303,cafe,Paprika Cafe,-104.83711,39.6962
+5029697777,2303,cafe,Starbucks,-104.82178,39.71308
+6469569367,2504,mall,Aurora Mall,-104.82344,39.70808
+358952875,2082,school,Challenge School,-104.87665,39.69766
+2026110898,2083,kindergarten,Children's Playland,-104.86788,39.68787
+2427677275,2082,school,Potter's Wheel Bible Institute,-104.87839,39.69158
+2757731993,2303,cafe,Starbucks,-104.86809,39.68594
+5070574488,2303,cafe,Starbucks,-104.86535,39.69173
+5631556024,2501,supermarket,Denver Halal Market,-104.86873,39.69623
+6254838428,2501,supermarket,Aurora Market,-104.86784,39.68863
+6254873125,2303,cafe,Ifka Cafe,-104.86741,39.68877
+358948847,2082,school,Independence Elementary School,-104.79791,39.63187
+358948855,2082,school,Indian Ridge Elementary School,-104.79679,39.62149
+358948864,2082,school,Laredo Middle School,-104.80322,39.62508
+358948890,2082,school,Sagebrush Elementary School,-104.8182,39.63205
+358948902,2082,school,Smoky Hill High School,-104.79972,39.62784
+358952877,2082,school,Excelsior Youth Center,-104.81184,39.64356
+6611863335,2303,cafe,Starbucks,-104.82852,39.63784
+358921428,2082,school,Saint Therese School,-104.8596,39.73504
+2794097510,2402,motel,Skyline Motel,-104.86077,39.73985
+2794097550,2402,motel,Radiant Motel,-104.8602,39.73981
+2794097553,2402,motel,,-104.84901,39.7397
+2794097556,2402,motel,Aurora motel,-104.85157,39.7394
+2794097559,2402,motel,Manor House Motel,-104.84094,39.73962
+2794097563,2402,motel,Ranger Motel,-104.85688,39.73991
+2794097565,2402,motel,Travaleer,-104.86138,39.73992
+2922946190,2083,kindergarten,Saint Mark's Preschool,-104.84397,39.72903
+2976909934,2402,motel,Timberline Motel,-104.84985,39.73969
+2976909942,2402,motel,Kings Inn motel,-104.85038,39.73954
+2990438294,2082,school,Peoria Elementary School,-104.8477,39.72948
+2990467654,2501,supermarket,King Soopers,-104.84962,39.72646
+2990467676,2501,supermarket,Save-A-Lot,-104.84428,39.72705
+2991679101,2303,cafe,City Donuts,-104.84689,39.72754
+2991878689,2082,school,Bennie E. Goodwin After School Academic Program,-104.84343,39.72841
+2991910072,2082,school,APS Online High School,-104.85114,39.73144
+2991910080,2501,supermarket,Lek's Asian Market,-104.84617,39.72854
+6765380083,2303,cafe,Starbucks,-104.84095,39.7399
+3450087833,2501,supermarket,Zamzam Halal International Market & Deli,-104.9021,39.67706
+3451485004,2501,supermarket,Arabic Market,-104.9029,39.67556
+3451485018,2501,supermarket,Carcineria El Jakalito,-104.90322,39.6754
+3451502938,2082,school,Dancin' Dreams,-104.90158,39.67453
+2884946260,2303,cafe,Starbucks,-105.00558,39.64959
+2886380287,2303,cafe,Strawberries Catering & Cafe,-105.01035,39.65246
