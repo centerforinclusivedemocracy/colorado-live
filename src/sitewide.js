@@ -448,6 +448,7 @@ DATA_PROFILES.fullmodel = {
     ],
     pointsofinterest: [
         DATA_LAYERS.pricenter2020,
+        DATA_LAYERS.transit_stops,
         DATA_LAYERS.fixed_sites,
         DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
     ],
